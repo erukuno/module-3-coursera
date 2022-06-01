@@ -1,0 +1,54 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+    width: 90%;
+    height: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+    padding: auto;
+}
+
+#chicken {
+    font: size 0.75em;
+    ;
+}
+
+#col1 {
+    background-color: bisque;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+#col2 {
+    background-color: bisque;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#col3 {
+    background-color: bisque;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#chicken {
+    text-align: center;
+    color: aqua;
+}
+
+#beef {
+    text-align: center;
+    color: blue;
+}
+
+#sushi {
+    text-align: center;
+    color: gold;
+}
